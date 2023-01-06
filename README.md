@@ -1,4 +1,3 @@
-# whmcs-easy-dogecoin-gateway
 <h1 align="center">
 Easy Dogecoin Gateway for WHMCS (Cpanel)
 <br><br>
