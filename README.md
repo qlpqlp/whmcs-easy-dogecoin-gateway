@@ -5,7 +5,7 @@ Easy Dogecoin Gateway for WHMCS (Cpanel)
 <h1 align="center">
 HappyShibes
 <br><br>
-<img src="https://dogegarden.io.com/img/whmcs.png" alt="Easy Dogecoin Gateway for WHMCS (Cpanel)"/>
+<img src="https://dogegarden.io/img/whmcs.png" alt="Easy Dogecoin Gateway for WHMCS (Cpanel)"/>
 <br><br>
 </h1>
 
@@ -23,7 +23,7 @@ HappyShibes
 
 ## Optional DOGE currency
 
-You can easly add Dogecoin Currency on WHMCS in ```Setup```->```Payments```->```Currencies``` and add the ```DOGE``` currency code and sufix ```–```
+You can easly add Dogecoin Currency on WHMCS in ```Setup```->```Payments```->```Currencies``` and add the ```DOGE``` currency code and sufix ```√ê```
 
 Note: This is still beta, but wen testing it semas all is working :)
 
