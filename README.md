@@ -1,9 +1,6 @@
 # whmcs-easy-dogecoin-gateway
-Easy Dogecoin Gateway for WHMCS (Cpanel)
-
-
 <h1 align="center">
-HappyShibes
+Easy Dogecoin Gateway for WHMCS (Cpanel)
 <br><br>
 <img src="https://dogegarden.io/img/whmcs.png" alt="Easy Dogecoin Gateway for WHMCS (Cpanel)"/>
 <br><br>
