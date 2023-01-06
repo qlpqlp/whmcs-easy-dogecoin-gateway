@@ -9,7 +9,7 @@ HappyShibes
 <br><br>
 </h1>
 
-## How to Install ??
+## How to Install 💻
 
 1- Download and extract the Gateway
 
